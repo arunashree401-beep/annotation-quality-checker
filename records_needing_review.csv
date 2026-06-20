@@ -1,0 +1,9 @@
+image_id,annotator_1,annotator_2,annotator_3,category,confidence_score,annotation_time_seconds,unique_labels,is_consistent,flag_low_confidence,flag_slow_annotation,flag_missing_label,flag_inconsistent,needs_review
+IMG_002,dog,dog,cat,animal,0.72,22,2,False,True,False,False,True,True
+IMG_005,bike,bike,bike,vehicle,0.65,35,1,True,True,True,False,False,True
+IMG_006,cat,,cat,animal,0.88,20,2,False,False,False,True,True,True
+IMG_008,truck,truck,car,vehicle,0.7,28,2,False,True,False,False,True,True
+IMG_013,bike,bike,bike,vehicle,0.68,30,1,True,True,False,False,False,True
+IMG_014,,,person,human,0.5,45,2,False,True,True,True,True,True
+IMG_015,cat,dog,cat,animal,0.6,40,2,False,True,True,False,True,True
+IMG_020,cat,cat,dog,animal,0.65,38,2,False,True,True,False,True,True
